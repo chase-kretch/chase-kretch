@@ -1,4 +1,7 @@
 ## Hi there 👋
+- I am a BSc CompSci Graduate
+- I love C# and Python, .NET is my favourite platform!
+- I also know Java, JavaScript, React Native and a little bit of C
 
 <!--
 **chase-kretch/chase-kretch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
