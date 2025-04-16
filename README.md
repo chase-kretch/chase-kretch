@@ -1,5 +1,5 @@
 ## Hi there 👋
-- I am a BSc CompSci Graduate
+- I am a BSc CompSci Graduate and am working towards being a full-stack dev :)
 - I love C# and Python, .NET is my favourite platform!
 - I also know Java, JavaScript, React Native and a little bit of C
 
