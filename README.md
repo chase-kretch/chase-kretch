@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chase</h1>
-<h3 align="center">BSc CS graduate aiming to enter the DevOps or full-stack industry.</h3>
+<h3 align="left">BSc CS graduate aiming to enter the DevOps or full-stack industry.</h3>
 
 - 🔭 I’m currently working on **LegalOrNot**
 
 - 🌱 I’m currently learning **AWS core services through AWS Re/Start**
-
-- 👨‍💻 All of my projects are available at [github!](github!)
 
 - 💬 Ask me about **my experiences with .NET, AWS and Python**
 
