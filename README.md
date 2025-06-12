@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chase</h1>
 <h3 align="center">BSc CS graduate aiming to enter the DevOps or full-stack industry.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chase-kretch" alt="chase-kretch" /></a> </p>
-
 - 🔭 I’m currently working on **LegalOrNot**
 
 - 🌱 I’m currently learning **AWS core services through AWS Re/Start**
